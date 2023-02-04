@@ -1,4 +1,4 @@
 # Connect-Four
 Connect Four with Vanilla JS 
 
-![alt-text](images/C4.pdf)
+![](images/C4.png)
