@@ -1,4 +1,4 @@
 # Connect-Four
 Connect Four with Vanilla JS 
 
-![](/images/C4.pdf)
+![](Connect-Four/tree/main/imagesC4.pdf)
