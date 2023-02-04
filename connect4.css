@@ -1,0 +1,72 @@
+/* game board table */
+
+#board td {
+    width: 6rem;
+    height: 6rem;
+    border: solid 3px rgb(4, 0, 255);
+    border-collapse: collapse;
+    
+  }
+  
+  /* pieces are div within game table cells: draw as colored circles */
+  
+  .piece {
+    margin: 5px;
+    width: 80%;
+    height: 80%;
+    border-radius: 50%;
+  }
+  
+  .p1{
+    background-color: red;
+    margin: 5px;
+    width: 80%;
+    height: 80%;
+    border-radius: 50%;
+  }
+  
+  .p2{
+    background-color: blue;
+    margin: 5px;
+    width: 80%;
+    height: 80%;
+    border-radius: 50%;
+  }
+  
+  /* column-top is table row of clickable areas for each column */
+  
+  #column-top td {
+    border: solid 1px lightgray;
+    background-color: black;
+    border-radius: 10em;
+  }
+  
+  #column-top td:hover {
+    background-color: gold;
+   
+  }
+  
+  tr{
+    background-color:lightcyan;
+    border-radius: 50%;
+    border-collapse: collapse;
+  }
+
+  td{
+    border-collapse: collapse;
+  }
+
+  #restart_button{
+    border: none;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    padding: 8px;
+    margin-top: 40px;
+    margin-left: 300px;
+    border-radius: 5px;
+  }
+
+  #restart_button:hover{
+    background-color: gold;
+    color: rgb(0, 0, 0);
+  }
