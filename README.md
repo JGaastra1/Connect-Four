@@ -1,4 +1,4 @@
 # Connect-Four
 Connect Four with Vanilla JS 
 
-<img> https://www.screencast.com/t/an4gxOeb </img>
+![alt text](https://github.com/JGaastra1/Connect-Four/blob/main/image.jpg?raw=true)
